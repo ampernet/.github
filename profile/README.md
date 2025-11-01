@@ -18,5 +18,5 @@
     </div>
   </a>
 <div>
-
+  Organição para os projetos open source da Ampernet
 </div>
