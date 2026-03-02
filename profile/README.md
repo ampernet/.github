@@ -17,6 +17,4 @@
       <img style="width: 1010px;" src="https://capsule-render.vercel.app/api?type=waving&height=68&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF0E06"  />
     </div>
   </a>
-<div>
-  Organição para os projetos open source da Ampernet
 </div>
